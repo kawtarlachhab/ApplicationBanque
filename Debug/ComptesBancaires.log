@@ -1,0 +1,14 @@
+﻿  ComptePayant.cpp
+C:\Users\hp\Documents\2ILISI2021\POO\ComptesBancaires\ComptesBancaires\ComptePayant.cpp(4,49): warning C4305: 'initialisation' : troncation de 'double' à 'float'
+  ComptesBancaires.cpp
+  Courant.cpp
+  Devise.cpp
+  Dollard.cpp
+  Euro.cpp
+  MAD.cpp
+  compte.cpp
+C:\Users\hp\Documents\2ILISI2021\POO\ComptesBancaires\ComptesBancaires\compte.cpp(32,21): warning C4018: '<' : incompatibilité signed/unsigned
+  operation.cpp
+  Génération de code en cours...
+C:\Users\hp\Documents\2ILISI2021\POO\ComptesBancaires\ComptesBancaires\ComptePayant.cpp(18): warning C4717: 'CompteBancaire::ComptePayant::print' : récurrent sur tous les chemins d'accès de contrôle, la fonction entraînera un dépassement de capacité de la pile d'exécution
+  ComptesBancaires.vcxproj -> C:\Users\hp\Documents\2ILISI2021\POO\ComptesBancaires\Debug\ComptesBancaires.exe
